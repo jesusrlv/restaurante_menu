@@ -1,0 +1,2 @@
+Stradale 1.0.1
+New added hover effect for form fields
