@@ -7543,12 +7543,16 @@ a.btn-right {
     .single-timeline:nth-child(even) .timeline-text span {
         text-align: left !important;
     }
+    #logo{
+        width: 10px;
+    }
 }
 
 @media all and (max-width: 360px) {
     .all-timelines::before {
         top: 32px;
     }
+    
 }
 
 
@@ -16781,6 +16785,7 @@ img {
     #topbar {
         display: none;
     }
+    
 }
 
 /* section control */
